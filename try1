@@ -1,0 +1,11 @@
+console.log('welcome to try1 in practice')
+
+const addMe = (x) => {
+sum=x+x
+return sum
+}
+
+console.log(addMe())
+
+console.log('I need to figure out how to run code on VS Code') 
+
